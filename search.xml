@@ -3,6 +3,31 @@
   
     
     <entry>
+      <title><![CDATA[try more]]></title>
+      <url>/2018/01/25/try-more/</url>
+      <content type="html"><![CDATA[<p>This is new word</p>
+]]></content>
+      
+        <categories>
+            
+            <category> work </category>
+            
+            <category> job </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> try_more </tag>
+            
+            <tag> new_world </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[new world]]></title>
       <url>/2018/01/25/new-world/</url>
       <content type="html"><![CDATA[<img src="/2018/01/25/new-world/hello.jpg" title="This is world">]]></content>
