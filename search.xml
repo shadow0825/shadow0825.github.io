@@ -33,7 +33,7 @@
     </entry>
     
     <entry>
-      <title><![CDATA[new world]]></title>
+      <title><![CDATA[New world]]></title>
       <url>/2018/01/25/new-world/</url>
       <content type="html"><![CDATA[<img src="/2018/01/25/new-world/hello.jpg" title="头像">
 <ul>
@@ -45,6 +45,12 @@
 <p>从今天开始，新的博客</p>
 ]]></content>
       
+        
+        <tags>
+            
+            <tag> Introduce </tag>
+            
+        </tags>
         
     </entry>
     
