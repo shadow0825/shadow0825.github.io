@@ -3,25 +3,30 @@
   
     
     <entry>
-      <title><![CDATA[try more]]></title>
-      <url>/2018/01/25/try-more/</url>
-      <content type="html"><![CDATA[<p>This is new word</p>
+      <title><![CDATA[the way of shadow]]></title>
+      <url>/2018/01/26/the-way-of-shadow/</url>
+      <content type="html"><![CDATA[<h3 id="后台开发的学习路线"><a href="#后台开发的学习路线" class="headerlink" title="后台开发的学习路线"></a>后台开发的学习路线</h3><ul>
+<li>Spring</li>
+<li>SpringMVC</li>
+<li>Mybatis</li>
+<li>Shiro</li>
+<li>Redis（Jedis）</li>
+</ul>
+<h3 id="大数据的学习路线"><a href="#大数据的学习路线" class="headerlink" title="大数据的学习路线"></a>大数据的学习路线</h3><ul>
+<li>Spark</li>
+</ul>
 ]]></content>
       
         <categories>
             
-            <category> work </category>
-            
-            <category> job </category>
+            <category> learn </category>
             
         </categories>
         
         
         <tags>
             
-            <tag> try_more </tag>
-            
-            <tag> new_world </tag>
+            <tag> global </tag>
             
         </tags>
         
@@ -30,7 +35,15 @@
     <entry>
       <title><![CDATA[new world]]></title>
       <url>/2018/01/25/new-world/</url>
-      <content type="html"><![CDATA[<img src="/2018/01/25/new-world/hello.jpg" title="This is world">]]></content>
+      <content type="html"><![CDATA[<img src="/2018/01/25/new-world/hello.jpg" title="头像">
+<ul>
+<li>姓名：姜翔</li>
+<li>性别：男</li>
+<li>年龄：27</li>
+<li>职业：全栈</li>
+</ul>
+<p>从今天开始，新的博客</p>
+]]></content>
       
         
     </entry>
